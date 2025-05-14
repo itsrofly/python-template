@@ -4,6 +4,7 @@
 
 - Python 3.12
 - Docker (Optional)
+- Make (Optional)
 
 ## 🔧 Environment Setup
 
